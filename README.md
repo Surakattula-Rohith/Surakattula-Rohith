@@ -1,32 +1,17 @@
-## Hey, I'm Rohith 👋
+## Hey, I'm Rohith 🐼
 
-Backend Engineer at **Tracxn Technologies** · Building data pipelines and distributed systems in Bangalore.
+Software Engineer at **Tracxn** · Java, MongoDB, and large-scale data pipelines.
 
----
+`Java` `Spring Boot` `MongoDB` `Kafka` `Docker` `React`
 
-### What I work with
+### 📌 Pinned Projects
 
-`Java` `Spring Boot` `Apache Kafka` `PostgreSQL` `MongoDB` `Docker` `Microservices` `REST APIs`
+⚡ **[Kafka DLQ Manager](https://github.com/Surakattula-Rohith/dlq-manager)** — Browse, replay, and analyze dead letter queue messages. Auto-discovers DLQ topics, error analytics, bulk replay with audit trails.
 
-### What I'm doing
+🛎️ **[StayPlanner](https://github.com/Surakattula-Rohith/StayPlanner)** — Hotel booking platform with 10 microservices. Spring Cloud Gateway, Eureka, Razorpay payments, the whole setup.
 
-- Processing **26M+ records** through high-accuracy data pipelines
-- Optimizing backend latency and payload efficiency at scale
-- Microservices architecture and system design
+### 🎓 Background
 
-### Projects
-
-🔧 **[Kafka DLQ Manager](https://github.com/Surakattula-Rohith/dlq-manager)**  
-Full-stack dashboard to browse, analyze, and replay dead letter queue messages. 15+ REST APIs for DLQ operations.
-
-🏨 **[StayPlanner](https://github.com/Surakattula-Rohith/StayPlanner)**  
-Hotel booking platform with 10 microservices — API Gateway, Eureka service discovery, OpenFeign, Razorpay payments, JWT auth, and email notifications. Containerized with Docker.
-
-### Background
-
-🎓 NIT Bhopal (B.Tech ECE) · Scaler Academy  
-💼 Previously at CGI Group — Batch processing for banking transactions on FUNDS360
-
-### Let's connect
+NIT Bhopal · Previously at CGI Group
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/surakattula-rohith)
